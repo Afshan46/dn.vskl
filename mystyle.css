@@ -1,0 +1,81 @@
+body {
+    background-color: rgb(244, 244, 244);
+  }
+  
+  h1 {
+    color: rgb(0, 0, 0);
+    text-align: left;
+    font-weight: 400;
+    font-size: 70px;
+  }
+  p{
+    font-family: outfit;
+    font-size: 16px;
+    font-weight: 400px;
+  }
+  h1, h4, h5 {
+    font-family: Young serif;
+  }
+  img{
+  width: 100%;
+  border: 20px;
+  }
+  #box{
+   width: 100%;
+    background-color: rgb(215, 179, 179);
+    border-radius: 5px;
+    height: 200px;
+  }
+  h4{
+    font-size: 25px;
+    padding-left: 15px;
+    padding-top: 15px;
+    color: rgb(225, 56, 56);
+  }
+  .prepar1 li{
+    font-family: outfit;
+    margin-bottom: 15px;
+  margin-left: 12px ;
+  }
+  #sub{
+    font-size: 20px;
+    padding-left: 15px;
+    padding-top: 15px;
+    color: hsl(6, 93%, 28%);
+  }
+  #list{
+    font-size: 20px;
+    padding-left: 15px;
+    padding-top: 15px;
+    color: hsl(6, 93%, 28%);
+  }
+  #inst{
+    font-size: 20px;
+    padding-left: 15px;
+    padding-top: 15px;
+    color: hsl(6, 93%, 28%);
+  }
+  #nutri{
+    font-size: 20px;
+    padding-left: 15px;
+    padding-top: 15px;
+    color: hsl(6, 93%, 28%);
+  }
+  .list1 li{
+    font-family: outfit;
+    margin-bottom: 15px;
+  margin-left: 12px ;
+  }
+  .inst1 li{
+    font-family: outfit;
+    margin-bottom: 15px;
+  margin-left: 12px ;
+  }
+  .nutri1{
+    font-family: outfit;
+    font-weight: 900px;
+    padding: 10px;;
+  }
+  span{
+    margin-left: 240px;
+  }
